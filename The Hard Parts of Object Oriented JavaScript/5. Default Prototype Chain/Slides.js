@@ -1,0 +1,1 @@
+/* Default Prototype Chain
